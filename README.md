@@ -1,4 +1,4 @@
-# 📌 Landing Page
+# 📄 Landing Page
 
 Este projeto é uma landing page pessoal desenvolvida como parte de uma atividade prática do curso de **Ciência de Dados**. O código base foi fornecido pelo curso, e foram feitas algumas alterações e personalizações no HTML e CSS para atender aos requisitos da atividade.
 
